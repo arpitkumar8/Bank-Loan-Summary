@@ -1,4 +1,4 @@
-###Bank Loan Analysis Dashboard
+Bank Loan Analysis Dashboard
 📊 Project Overview
 
 This project focuses on analyzing bank loan data to generate actionable insights for improving lending decisions and monitoring portfolio performance. The dashboard provides a comprehensive view of loan applications, funding, repayments, and risk segmentation (Good vs Bad Loans).
