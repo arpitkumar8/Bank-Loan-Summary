@@ -40,3 +40,5 @@
 #### 🧠 Add Business Recommendations Section
 #### 📉 Risk Scoring Model
 ### 📷 Project Preview
+<img width="1726" height="851" alt="Image" src="https://github.com/user-attachments/assets/815f7570-c77f-43a4-9005-59e5eef355e1" />
+
