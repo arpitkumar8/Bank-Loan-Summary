@@ -1,7 +1,6 @@
 <img width="1650" height="829" alt="Image" src="https://github.com/user-attachments/assets/6a75f8c7-e77a-4ded-9d55-92dbf817624d" />
 
 # Bank Loan Analysis Dashboard
-## Bank Loan Analysis Dashboard
 ### Overview
 
 #### This project analyzes bank loan data to provide insights into lending performance, borrower behavior, and risk assessment. The dashboard enables data-driven decisions by tracking key financial metrics and loan trends.
